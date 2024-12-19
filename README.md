@@ -2,7 +2,6 @@
 ## Welcome to my Profile in GitHub
 <i class="devicon-fastapi-plain-wordmark"></i>
 
-- 🔭 I am currently working on one website of a congress called CONIAD, you can see in this link here, https://coniad.vercel.app
 - 🌱 I am currently learning more about Python and develop of API with FastAPI
 - 👯 I’m looking to collaborate on more projects of my institute that I study and make a project one day
 - ⚡ Fun fact: I relly like Spider-Man! He inspired to be better and greatter than I am now everyday

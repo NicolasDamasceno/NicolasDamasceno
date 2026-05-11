@@ -1,20 +1,20 @@
 <div align="center">
-  <h1>Olá, eu sou o Nicolas Damasceno! 👋</h1>
-  <p>Estudante de Análise e Desenvolvimento de Sistemas focado em criar soluções eficientes e aprender novas tecnologias todos os dias.</p>
+  <h1>Bonjour, eu sou o Nicolas Damasceno! 👋</h1>
+  <p>Um estudante de Análise e Desenvolvimento de Sistemas do Instituto Federal do Piauí, sempre tentando resolver novos problemas nessa longa estrada da vida.</p>
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 Um pouco mais sobre mim! 
 
-- 🌱 Atualmente aprofundando conhecimentos em **Python**, **Django**, **TypeScript** e novas ferramentas para desenvolvimento Full Stack.
-- 💻 Utilizo o **Linux Mint** como ambiente principal de desenvolvimento.
-- 👯 Aberto a colaborações em projetos acadêmicos e iniciativas de código aberto.
-- ⚡ **Curiosidade:** O Homem-Aranha é minha maior inspiração para buscar excelência e superar limites, especialmente em programação.
+- 🌱 Atualmente estou me especializando mais em **Python** e **Django** as minhas primeiras ferramentas de desenvolvimento, porém sempre tento aprender mais  **TypeScript**.
+- 💻 Utilizo o **Linux Mint** como ambiente principal de desenvolvimento, porém tenho planos para migrar para distribuições mais usadas! Logo Embarcando na jornada dos LINUXS Hahahaha.
+- 👯 Também busco alguns projetos de código aberto para contribuir com minhas skills, é sempre importante ajudar a nossa própria comunidade. 
+- ⚡ **Curiosidade:** O Homem-Aranha é o meu herói favorito, apesar da minha comida favorita ser pizza hehehe, ele me ensina o valor da responsabilidade algo fundamental a programdores!
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas Usadas, logo mais serão adiciondas.
 
 <div align="center">
  <!-- Linguagens e Web -->
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Minhas Métricas em Git:
 
 <div align="center">
   <!-- Status Geral (Usando Servidor Sigma) -->
@@ -51,7 +51,7 @@
 
 ---
 
-### 📫 Contato
+### 📫 Dá um toque se precisar de algo!
 
 <div align="center">
   <a href="mailto:nicolasbackprogrammer@gmail.com">
@@ -62,6 +62,7 @@
   </a>
 </div>
 
+### E por último um Snake Game daqueles Nokias:  
 <div align="center">
   <img src="https://raw.githubusercontent.com/NicolasDamasceno/NicolasDamasceno/output/snake.svg" alt="Snake animation" />
 </div>

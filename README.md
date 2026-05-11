@@ -8,6 +8,7 @@
 ### 🚀 Sobre Mim
 
 - 🌱 Atualmente aprofundando conhecimentos em **Python**, **Django**, **TypeScript** e novas ferramentas para desenvolvimento Full Stack.
+- 💻 Utilizo o **Linux Mint** como ambiente principal de desenvolvimento.
 - 👯 Aberto a colaborações em projetos acadêmicos e iniciativas de código aberto.
 - ⚡ **Curiosidade:** O Homem-Aranha é minha maior inspiração para buscar excelência e superar limites, especialmente em programação.
 
@@ -16,14 +17,14 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <!-- Linguagens -->
+ <!-- Linguagens e Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" />
   <br><br>
-  <!-- Frameworks e Bancos de Dados -->
+  <!-- Frameworks e Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql" />
@@ -39,11 +40,13 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasDamasceno&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NicolasDamasceno&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <!-- Status Geral (Usando Servidor Sigma) -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasDamasceno&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Nicolas" />
+  <!-- Linguagens Mais Usadas -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasDamasceno&layout=compact&langs_count=8&theme=radical" alt="Linguagens de Nicolas" />
   <br>
-  <!-- Card de Streak -->
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasDamasceno&theme=radical&hide_border=true" />
+  <!-- GitHub Streak -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasDamasceno&theme=radical" alt="Streak de Nicolas" />
 </div>
 
 ---

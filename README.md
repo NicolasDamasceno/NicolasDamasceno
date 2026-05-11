@@ -19,13 +19,6 @@
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/nicolas-damasceno-045108342" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## Status
-<div>
-<a href="https://github.com/NicolasDamasceno">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasDamasceno&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasDamasceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <div aling= "center">
   <img src="https://raw.githubusercontent.com/NicolasDamasceno/NicolasDamasceno/output/snake.svg" alt="Snake animation" />
 <div>

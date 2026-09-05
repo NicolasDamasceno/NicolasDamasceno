@@ -30,6 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql" />
   <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="25" alt="pgadmin" />
   <br><br>
+  <!-- Estágio: C#, .NET e React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25" alt="dotnet" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" alt="react native" />
+  <br><br>
   <!-- Sistema e I.A -->
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="25" alt="linux mint" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25" alt="AI" />
@@ -40,13 +46,13 @@
 ### 📊 Minhas Métricas em Git:
 
 <div align="center">
-  <!-- Status Geral (Usando Servidor Sigma) -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasDamasceno&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Nicolas" />
+  <!-- Status Geral (Servidor oficial) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasDamasceno&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Nicolas" />
   <!-- Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasDamasceno&layout=compact&langs_count=8&theme=radical" alt="Linguagens de Nicolas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasDamasceno&layout=compact&langs_count=8&theme=radical" alt="Linguagens de Nicolas" />
   <br>
   <!-- GitHub Streak -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasDamasceno&theme=radical" alt="Streak de Nicolas" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=NicolasDamasceno&theme=radical" alt="Streak de Nicolas" />
 </div>
 
 ---

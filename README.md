@@ -46,10 +46,10 @@
 ### 📊 Minhas Métricas em Git:
 
 <div align="center">
-  <!-- Status Geral (Instância própria no Vercel) -->
-  <img height="180em" src="https://github-stats-extended-frontend-4topm5wlr.vercel.app/api?username=NicolasDamasceno&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Nicolas" />
+  <!-- Status Geral (Servidor oficial) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasDamasceno&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Nicolas" />
   <!-- Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-stats-extended-frontend-4topm5wlr.vercel.app/api/top-langs/?username=NicolasDamasceno&layout=compact&langs_count=8&theme=radical" alt="Linguagens de Nicolas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasDamasceno&layout=compact&langs_count=8&theme=radical" alt="Linguagens de Nicolas" />
   <br>
   <!-- GitHub Streak -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=NicolasDamasceno&theme=radical" alt="Streak de Nicolas" />
